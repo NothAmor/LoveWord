@@ -51,7 +51,7 @@
                 <span class="mdl-layout-title">情言</span>
                 <!-- Add spacer, to align navigation to the right -->
                 <div class="mdl-layout-spacer"></div>
-
+		    <a class="mdl-navigation__link" href="/api.html">API</a>
             </div>
         </header>
         <main class="mdl-layout__content">
