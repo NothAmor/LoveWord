@@ -32,8 +32,8 @@ https://www.tddiao.online/word/?format=js&charset=utf-8
 
 作者：Harold Finch
 
-博客：[https://www.nothamor.cn][3]
+博客：[http://www.nothamor.cn][3]
 
-  [3]: https://www.nothamor.cn
+  [3]: http://www.nothamor.cn
 
 邮箱：finch@finch.gq
